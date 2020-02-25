@@ -13,14 +13,14 @@ Don't forget to replace all xxx by your techno
 
 The text below is the template you could use for your readme
 
-# XXX 
+# Kotlin 
 
 A [SFEIR School](https://www.sfeir.com/formation/school/)
 
-![logo](https://www.sfeir.com/img/school/formations/xxx.png)
+![logo](https://www.sfeir.com/img/school/formations/kotlin.png)
 
-[Planning, trainers and other details](https://www.sfeir.com/formation/school/xxx/)
+[Planning, trainers and other details](https://www.sfeir.com/formation/school/kotlin/)
 
 # Slides
 
-You can view the slides [here](https://sfeir-open-source.github.io/sfeir-school-xxx/).
+You can view the slides [here](https://sfeir-open-source.github.io/sfeir-school-kotlin/).
